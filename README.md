@@ -59,6 +59,10 @@ A webcam window will pop up showing detected faces with predicted emotion labels
 
 Contributions, improvements, and suggestions are welcome! Please fork the repo and open a pull request.
 
+Project Trained models and Images GDrive Link:
+
+https://drive.google.com/drive/folders/1urKYDsqqllRll0w9XKRdTy-UvwzbSh0F?usp=sharing
+
 
 ## 🛠️ Requirements
 
