@@ -11,15 +11,7 @@ A deep learning project for detecting human facial emotions in real-time using a
 
 ## 📁 Project Structure
 
-
-## 🛠️ Requirements
-
-Install dependencies using pip:
-
-```bash
-pip install opencv-python tensorflow keras numpy
-
-Ensure that your system has a working webcam and Python 3.6+ installed.
+-Ensure that your system has a working webcam and Python 3.6+ installed.
 
 🧪 Model Training
 Open trainmodel.ipynb and run the cells to:
@@ -71,3 +63,11 @@ The model uses Haar Cascades which are fast but may miss faces in extreme angles
 
 🤝 Contributing
 Contributions, improvements, and suggestions are welcome! Please fork the repo and open a pull request.
+
+
+## 🛠️ Requirements
+
+Install dependencies using pip:
+
+```bash
+pip install opencv-python tensorflow keras numpy
